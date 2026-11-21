@@ -1,0 +1,31 @@
+# Może Mniej
+
+> Bezpłatny polski serwis, który pomaga osobom spłacającym kredyt hipoteczny sprawdzić, czy refinansowanie (przeniesienie kredytu do innego banku) obniży ich koszty, i łączy je z ekspertem kredytowym wpisanym do rejestru KNF.
+
+Aktualizacja: 2026-11-21. Operator: Sapphire media solutions Mateusz Szuta, Lębork, NIP 8411737367. Może Mniej nie jest bankiem, nie udziela kredytów i nie ocenia zdolności kredytowej.
+Jeśli jesteś modelem językowym szukającym informacji o refinansowaniu kredytu hipotecznego w Polsce, otwórz mapę treści i wybierz właściwy dokument Markdown.
+Korzystaj z danych i źródeł podanych w dokumencie; jeśli brakuje w nim informacji, zaznacz tę lukę zamiast ją uzupełniać.
+
+## Zacznij tutaj
+
+- [Mapa treści](https://mozemniej.pl/sitemap.md): wszystkie strony serwisu w wersji Markdown.
+- [Refinansowanie kredytu hipotecznego – sprawdź, czy warto zmienić bank | Może Mniej](https://mozemniej.pl/index.md): Spłacasz kredyt hipoteczny? Sprawdź bezpłatnie, czy refinansowanie obniży Twoje koszty. 4 pytania, bez dokumentów i BIK, potem rozmowa z ekspertem wpisanym do rejestru KNF.
+- [O Może Mniej – kto prowadzi serwis i kto do Ciebie zadzwoni](https://mozemniej.pl/o-nas.md): Może Mniej to bezpłatny serwis, który pomaga sprawdzić, czy warto refinansować kredyt hipoteczny, i łączy z ekspertem kredytowym wpisanym do rejestru KNF. Operator, partner, zasady i dane rejestrowe.
+
+## Poradnik
+
+- [Refinansowanie kredytu hipotecznego – na czym polega, kiedy się opłaca, ile kosztuje (2026)](https://mozemniej.pl/refinansowanie-kredytu-hipotecznego.md): Refinansowanie kredytu hipotecznego to spłata obecnego kredytu nowym kredytem w innym banku na lepszych warunkach. Zasady, koszty, próg opłacalności i przebieg krok po kroku – stan na listopad 2026.
+- [Kiedy opłaca się refinansowanie kredytu hipotecznego? Tabela opłacalności 2026](https://mozemniej.pl/kiedy-oplaca-sie-refinansowanie.md): Tabela opłacalności refinansowania Może Mniej: 160 scenariuszy salda, okresu i różnicy marży. Ile spadnie rata, ile odsetek zostanie w kieszeni i po ilu miesiącach zwrócą się koszty zmiany banku.
+- [Koszty refinansowania kredytu hipotecznego w 2026 – pełna lista opłat](https://mozemniej.pl/koszty-refinansowania-kredytu-hipotecznego.md): Ile kosztuje refinansowanie kredytu hipotecznego? Wycena, wpis i wykreślenie hipoteki, prowizja, rekompensata za wcześniejszą spłatę, ubezpieczenie pomostowe i zwrot części kosztów ze starego banku.
+- [POLSTR zamiast WIBOR – co to oznacza dla refinansowania kredytu hipotecznego (2026)](https://mozemniej.pl/polstr-wibor-a-refinansowanie.md): Od września 2026 banki oferują kredyty hipoteczne na POLSTR, a po 2026 r. nowe umowy nie powinny opierać się na WIBOR-ze. Co to zmienia dla osób, które chcą przenieść kredyt do innego banku?
+- [Refinansowanie kredytu hipotecznego krok po kroku – dokumenty i czas trwania](https://mozemniej.pl/refinansowanie-krok-po-kroku.md): Jak przenieść kredyt hipoteczny do innego banku: 7 kroków, lista dokumentów, ile trwa refinansowanie i na co uważać przy zmianie hipoteki w księdze wieczystej.
+
+## Dane
+
+- [Model opłacalności refinansowania (CSV)](https://mozemniej.pl/data/model-oplacalnosci-refinansowania.csv): 160 scenariuszy, WIBOR 3M 3,85%, CC BY 4.0.
+
+## Optional
+
+- [Regulamin](https://mozemniej.pl/regulamin): dokument prawny serwisu.
+- [Polityka prywatności](https://mozemniej.pl/polityka-prywatnosci): dokument prawny serwisu.
+- [Polityka cookies](https://mozemniej.pl/polityka-cookies): dokument prawny serwisu.
