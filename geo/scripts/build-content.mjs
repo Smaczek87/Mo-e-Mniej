@@ -13,7 +13,7 @@ const CONTENT = path.join(ROOT, "content");
 const PUBLIC = path.join(ROOT, "public");
 const OUT_TS = path.join(ROOT, "src/content/pages.generated.ts");
 
-// Strony prawne: indeksowalne, w sitemap.xml, bez mirrorów .md (renderowane przez istniejące trasy).
+// Strony prawne: noindex na produkcji -> poza sitemap.xml; tylko w llms.txt (Optional), bez mirrorów .md (renderowane przez istniejące trasy).
 const LEGAL = [
   { slug: "/regulamin", title: "Regulamin" },
   { slug: "/polityka-prywatnosci", title: "Polityka prywatności" },
@@ -129,7 +129,6 @@ fs.writeFileSync(path.join(PUBLIC, "llms.txt"), llms);
 // 5) sitemap.xml
 const urls = [
   ...pages.map((p) => ({ loc: SITE + (p.slug === "/" ? "/" : p.slug), lastmod: p.updated })),
-  ...LEGAL.map((l) => ({ loc: SITE + l.slug, lastmod: null })),
 ];
 const xml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +

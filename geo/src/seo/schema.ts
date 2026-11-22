@@ -93,6 +93,9 @@ export function service() {
   };
 }
 
+// Data ISO 8601 ze strefą czasową (Google zgłaszał brak strefy w danych artykułów).
+export const isoDate = (d: string) => (d.includes("T") ? d : `${d}T08:00:00+01:00`);
+
 export type PageMeta = {
   slug: string; // "/" lub "/refinansowanie-kredytu-hipotecznego"
   title: string;
@@ -114,8 +117,8 @@ export function webPage(p: PageMeta) {
     description: p.description,
     inLanguage: "pl-PL",
     isPartOf: { "@id": SITE_ID },
-    dateModified: p.updated,
-    ...(p.published ? { datePublished: p.published } : { datePublished: p.updated }),
+    dateModified: isoDate(p.updated),
+    datePublished: isoDate(p.published ?? p.updated),
     ...(p.slug === "/" ? { about: { "@id": `${SITE_URL}/#service` } } : { author: { "@id": ORG_ID }, publisher: { "@id": ORG_ID } }),
     ...(p.reviewed ? { reviewedBy: { "@id": EXPERT_ID } } : {}),
     image: ORG.image,
@@ -158,7 +161,7 @@ export function refinanceDataset() {
     license: "https://creativecommons.org/licenses/by/4.0/",
     isAccessibleForFree: true,
     inLanguage: "pl-PL",
-    dateModified: "2026-11-21",
+    dateModified: isoDate("2026-11-21"),
     temporalCoverage: "2026-11",
     spatialCoverage: "Polska",
     variableMeasured: ["saldo", "okres do końca spłaty", "marża", "rata", "oszczędność", "próg opłacalności"],

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     "Spłacasz kredyt hipoteczny? Sprawdź bezpłatnie, czy refinansowanie obniży Twoje koszty. 4 pytania, bez dokumentów i BIK, potem rozmowa z ekspertem wpisanym do rejestru KNF.",
   // KLUCZOWE: usunąć 'noindex, nofollow'. Obecnie w HTML są DWA tagi robots – oba muszą zniknąć.
   robots: { index: true, follow: true, "max-snippet": -1, "max-image-preview": "large", "max-video-preview": -1 },
-  alternates: { canonical: "/", types: { "text/markdown": "https://mozemniej.pl/index.md" } },
+  alternates: { canonical: "https://mozemniej.pl/", types: { "text/markdown": "https://mozemniej.pl/index.md" } },
   openGraph: { siteName: "Może Mniej", locale: "pl_PL", type: "website", images: ["/og.png"] },
   // Po weryfikacji w narzędziach:
   // verification: { google: "…", other: { "msvalidate.01": "…" } },

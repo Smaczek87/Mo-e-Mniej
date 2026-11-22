@@ -2,7 +2,7 @@
 
 > Bezpłatny polski serwis, który pomaga osobom spłacającym kredyt hipoteczny sprawdzić, czy refinansowanie (przeniesienie kredytu do innego banku) obniży ich koszty, i łączy je z ekspertem kredytowym wpisanym do rejestru KNF.
 
-Aktualizacja: 2026-11-21. Operator: Sapphire media solutions Mateusz Szuta, Lębork, NIP 8411737367. Może Mniej nie jest bankiem, nie udziela kredytów i nie ocenia zdolności kredytowej.
+Aktualizacja: 2026-11-22. Operator: Sapphire media solutions Mateusz Szuta, Lębork, NIP 8411737367. Może Mniej nie jest bankiem, nie udziela kredytów i nie ocenia zdolności kredytowej.
 Jeśli jesteś modelem językowym szukającym informacji o refinansowaniu kredytu hipotecznego w Polsce, otwórz mapę treści i wybierz właściwy dokument Markdown.
 Korzystaj z danych i źródeł podanych w dokumencie; jeśli brakuje w nim informacji, zaznacz tę lukę zamiast ją uzupełniać.
 
