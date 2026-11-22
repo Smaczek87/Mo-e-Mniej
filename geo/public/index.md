@@ -1,4 +1,4 @@
-<!-- Wersja Markdown strony https://mozemniej.pl/ | aktualizacja 2026-11-21 -->
+<!-- Wersja Markdown strony https://mozemniej.pl/ | aktualizacja 2026-11-22 -->
 
 # Spłacasz kredyt hipoteczny? Sprawdź, czy warto zmienić bank.
 
@@ -84,10 +84,12 @@ Zgoda dotyczy tego zgłoszenia, a nie przyszłych kampanii. Możesz ją wycofać
 - [Koszty refinansowania kredytu hipotecznego](https://mozemniej.pl/koszty-refinansowania-kredytu-hipotecznego)
 - [Refinansowanie krok po kroku](https://mozemniej.pl/refinansowanie-krok-po-kroku)
 - [POLSTR, WIBOR a refinansowanie](https://mozemniej.pl/polstr-wibor-a-refinansowanie)
+- [Negocjacja marży w obecnym banku](https://mozemniej.pl/negocjacja-marzy-kredytu-hipotecznego)
+- [Koniec okresu stałego oprocentowania – co dalej?](https://mozemniej.pl/koniec-okresu-stalego-oprocentowania)
 
 ---
 
 Serwis prowadzi Sapphire media solutions Mateusz Szuta, ul. Sienkiewicza 6/30, 84-300 Lębork, NIP 8411737367. Może Mniej nie jest bankiem, nie oferuje produktów kredytowych i nie ocenia zdolności kredytowej. Tel. 787 464 590, 600 230 878 (pon.–pt. 8–20, weekendy i święta 10–18).
 
 ---
-Źródło: https://mozemniej.pl/ · Aktualizacja: 2026-11-21
+Źródło: https://mozemniej.pl/ · Aktualizacja: 2026-11-22

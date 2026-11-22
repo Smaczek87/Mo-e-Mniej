@@ -1,4 +1,4 @@
-<!-- Wersja Markdown strony https://mozemniej.pl/refinansowanie-kredytu-hipotecznego | aktualizacja 2026-11-21 -->
+<!-- Wersja Markdown strony https://mozemniej.pl/refinansowanie-kredytu-hipotecznego | aktualizacja 2026-11-22 -->
 
 # Refinansowanie kredytu hipotecznego – kompletny przewodnik (2026)
 
@@ -18,7 +18,7 @@
 
 Refinansowanie kredytu hipotecznego polega na tym, że nowy bank udziela kredytu w kwocie pozostałego zadłużenia, przelewa pieniądze bezpośrednio do starego banku i ustanawia hipotekę na tej samej nieruchomości. Stary kredyt zostaje spłacony w całości, a stara hipoteka – wykreślona z księgi wieczystej. Kredytobiorca nie dostaje gotówki do ręki (chyba że wnioskuje o dodatkową kwotę), a jego jedynym zobowiązaniem staje się nowy kredyt.
 
-Refinansowanie różni się od negocjacji w obecnym banku. Negocjacja może zakończyć się aneksem obniżającym marżę bez zmiany banku i bez kosztów nowej hipoteki. Refinansowanie jest pełną zmianą kredytodawcy, z nową oceną zdolności i nową umową. W praktyce oferta z innego banku bywa najmocniejszym argumentem w negocjacjach z obecnym bankiem.
+Refinansowanie różni się od negocjacji w obecnym banku. Negocjacja może zakończyć się aneksem obniżającym marżę bez zmiany banku i bez kosztów nowej hipoteki. Refinansowanie jest pełną zmianą kredytodawcy, z nową oceną zdolności i nową umową. W praktyce oferta z innego banku bywa najmocniejszym argumentem w negocjacjach z obecnym bankiem – zobacz [negocjacja marży w obecnym banku](https://mozemniej.pl/negocjacja-marzy-kredytu-hipotecznego).
 
 ## Kiedy refinansowanie kredytu hipotecznego się opłaca?
 
@@ -36,7 +36,7 @@ Warto sprawdzić, czy refinansowanie ma sens, gdy:
 2. od zawarcia umowy minęło co najmniej kilka lat, a do końca spłaty zostało 10 lat lub więcej;
 3. pozostałe saldo wynosi kilkaset tysięcy złotych;
 4. wzrósł dochód kredytobiorcy albo spadł wskaźnik LTV (zadłużenie w relacji do wartości mieszkania), bo to poprawia warunki w nowym banku;
-5. okres stałego oprocentowania dobiega końca i bank proponuje mniej korzystne warunki na kolejny okres;
+5. okres stałego oprocentowania dobiega końca i bank proponuje mniej korzystne warunki na kolejny okres (zobacz: [koniec okresu stałego oprocentowania](https://mozemniej.pl/koniec-okresu-stalego-oprocentowania));
 6. kredytobiorca nie wie, czy jego oprocentowanie jest jeszcze konkurencyjne.
 
 ## Ile kosztuje refinansowanie kredytu hipotecznego?
@@ -83,4 +83,4 @@ Może Mniej pomaga w pierwszym kroku: wystarczą 4 pytania o kredyt (bez PESEL, 
 - Komunikaty PKO BP (3 września 2026 r.) i Narodowej Grupy Roboczej ds. reformy wskaźników referencyjnych.
 
 ---
-Źródło: https://mozemniej.pl/refinansowanie-kredytu-hipotecznego · Aktualizacja: 2026-11-21 · Przegląd merytoryczny: Mariusz Badowski – agent pośrednika kredytu hipotecznego, wpis KNF RHA0010209 (NOTUS Finanse S.A., RPH000030)
+Źródło: https://mozemniej.pl/refinansowanie-kredytu-hipotecznego · Aktualizacja: 2026-11-22 · Przegląd merytoryczny: Mariusz Badowski – agent pośrednika kredytu hipotecznego, wpis KNF RHA0010209 (NOTUS Finanse S.A., RPH000030)

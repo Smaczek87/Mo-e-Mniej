@@ -2,7 +2,7 @@
 title: "Refinansowanie kredytu hipotecznego – sprawdź, czy warto zmienić bank | Może Mniej"
 description: "Spłacasz kredyt hipoteczny? Sprawdź bezpłatnie, czy refinansowanie obniży Twoje koszty. 4 pytania, bez dokumentów i BIK, potem rozmowa z ekspertem wpisanym do rejestru KNF."
 slug: /
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # Spłacasz kredyt hipoteczny? Sprawdź, czy warto zmienić bank.
@@ -89,6 +89,8 @@ Zgoda dotyczy tego zgłoszenia, a nie przyszłych kampanii. Możesz ją wycofać
 - [Koszty refinansowania kredytu hipotecznego](/koszty-refinansowania-kredytu-hipotecznego)
 - [Refinansowanie krok po kroku](/refinansowanie-krok-po-kroku)
 - [POLSTR, WIBOR a refinansowanie](/polstr-wibor-a-refinansowanie)
+- [Negocjacja marży w obecnym banku](/negocjacja-marzy-kredytu-hipotecznego)
+- [Koniec okresu stałego oprocentowania – co dalej?](/koniec-okresu-stalego-oprocentowania)
 
 ---
 
