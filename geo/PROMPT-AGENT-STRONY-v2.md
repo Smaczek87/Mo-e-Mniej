@@ -24,6 +24,8 @@ Diff od commita `9b396e1` pokazuje dokładnie, co się zmieniło w pakiecie. Prz
 
 4b. **Plik weryfikacyjny Google Search Console.** Skopiuj `geo/public/google8cdce51e281426e7.html` do `public/` bez żadnych zmian (zawartość: `google-site-verification: google8cdce51e281426e7.html`). Ma być dostępny pod `https://mozemniej.pl/google8cdce51e281426e7.html` ze statusem 200. Nie usuwaj go nigdy – utrata pliku cofa weryfikację.
 
+4c. **Plik weryfikacyjny Bing Webmaster Tools.** Skopiuj `geo/public/BingSiteAuth.xml` do `public/` bez zmian. Ma być dostępny pod `https://mozemniej.pl/BingSiteAuth.xml` (200, typ XML). Nie usuwaj go.
+
 5. **Dwie nowe podstrony poradnika** (nowe pliki w `geo/content/`):
    - `/negocjacja-marzy-kredytu-hipotecznego` ← `negocjacja-marzy-kredytu-hipotecznego.md`
    - `/koniec-okresu-stalego-oprocentowania` ← `koniec-okresu-stalego-oprocentowania.md`
@@ -49,6 +51,7 @@ curl -s https://mozemniej.pl/ | grep -o '"dateModified":"[^"]*"'                
 curl -s https://mozemniej.pl/kiedy-oplaca-sie-refinansowanie | grep -o '"date[A-Za-z]*":"[^"]*"'
 for s in negocjacja-marzy-kredytu-hipotecznego koniec-okresu-stalego-oprocentowania; do curl -s https://mozemniej.pl/$s | grep -c 'application/ld+json'; curl -sI https://mozemniej.pl/$s.md | grep -i content-type; done
 curl -s https://mozemniej.pl/google8cdce51e281426e7.html                       # google-site-verification: google8cdce51e281426e7.html
+curl -s https://mozemniej.pl/BingSiteAuth.xml                                  # <user>37AD49C8EFB0867E21E7352AB4EAE7C1</user>
 curl -s https://mozemniej.pl/eb08c7fade0d0a4ad31ac01165954e8a.txt              # eb08c7fade0d0a4ad31ac01165954e8a
 for s in "" refinansowanie-kredytu-hipotecznego kiedy-oplaca-sie-refinansowanie koszty-refinansowania-kredytu-hipotecznego refinansowanie-krok-po-kroku polstr-wibor-a-refinansowanie o-nas negocjacja-marzy-kredytu-hipotecznego koniec-okresu-stalego-oprocentowania; do curl -s -o /dev/null -w "/$s %{http_code}\n" https://mozemniej.pl/$s; done
 ```
