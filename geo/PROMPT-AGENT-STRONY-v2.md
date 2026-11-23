@@ -58,6 +58,17 @@ for s in "" refinansowanie-kredytu-hipotecznego kiedy-oplaca-sie-refinansowanie 
 
 Plus Rich Results Test dla `/kiedy-oplaca-sie-refinansowanie` – zero uwag o datach.
 
+## Rozpoznanie analityki (tylko odczyt, bez zmian)
+
+Ustal i opisz w raporcie, jakie narzędzia pomiarowe działają na stronie. Niczego w nich nie zmieniaj.
+
+1. **Narzędzie analityczne** – jakie (np. Google Analytics 4, Google Tag Manager, Plausible, Umami, Matomo, Cloudflare Web Analytics, Microsoft Clarity, własne rozwiązanie) i w którym pliku jest skonfigurowane.
+2. **Identyfikatory publiczne** – np. identyfikator pomiaru GA4 (`G-…`), kontenera GTM (`GTM-…`) albo domena/ID skryptu. Podaj tylko identyfikatory widoczne w kodzie strony. **Nie podawaj** kluczy API, tokenów, haseł ani sekretów API Conversions Meta.
+3. **Meta (Facebook)** – czy działa Pixel i/lub Conversions API; ID Pixela (publiczne) i miejsce konfiguracji.
+4. **Zgody** – jak dialog „Prywatność i pomiar” steruje ładowaniem skryptów: co ładuje się dopiero po akceptacji, co zawsze, jakie zdarzenia są wysyłane (np. odsłona, wysłanie formularza, krok formularza).
+5. **Konto** – na jakie konto (adres e-mail właściciela lub nazwa organizacji) jest założona usługa analityczna, jeśli da się to ustalić z konfiguracji lub dokumentacji projektu.
+6. **Źródła ruchu** – czy narzędzie zapisuje stronę odsyłającą (referrer) i parametry UTM. Uwaga: strona ma `<meta name="referrer" content="no-referrer">` – to dotyczy linków wychodzących i nie blokuje odczytu źródła wejścia, ale potwierdź, że źródło wejścia jest rejestrowane.
+
 ## Raport
 
-Krótko: wersja i commit, lista zmienionych plików, wynik testów, odstępstwa (jeśli były). Punkt powrotu: v49.
+Krótko: wersja i commit, lista zmienionych plików, wynik testów, odstępstwa (jeśli były), **wyniki rozpoznania analityki (punkty 1–6)**. Punkt powrotu: v49.
