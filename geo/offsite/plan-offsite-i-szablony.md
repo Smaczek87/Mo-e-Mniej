@@ -2,15 +2,17 @@
 
 Priorytety wynikają z pomiaru bazowego (`geo/monitoring/2026-11-22-baseline-google-ai-mode.md`).
 
+Decyzja 23.11.2026: rezygnujemy z prośby do NOTUS Finanse (ekspert nie chce angażować partnera ani firmy od swojej strony www). Strategia opiera się na kanałach kontrolowanych przez zespół.
+
 | # | Działanie | Dlaczego | Kto | Kiedy |
 |---|---|---|---|---|
-| 1 | Wzmianka z linkiem na notus.pl (strona agenta / katalog ekspertów) | notus.pl cytowany w 4/19 zapytań w Google Tryb AI; to pośrednik naszego eksperta – najbardziej wiarygodne powiązanie encji | Mariusz Badowski → NOTUS | teraz |
-| 2 | Strona firmowa LinkedIn „Może Mniej” + link w profilu eksperta | spójność encji, `sameAs` | zespół, ekspert | teraz |
-| 3 | PR danych: „Po ilu miesiącach zwraca się refinansowanie? 160 scenariuszy” | dane własne, format, którego szuka AI („400 tys. zł na 20 lat”) | zespół (wysyłka), Claude (treść) | po indeksacji (ok. 6.12.2026) |
-| 4 | Komentarz eksperta do decyzji RPP (grudzień) | wzmianki w mediach z podpisem „ekspert Może Mniej” | ekspert + zespół | po posiedzeniu RPP |
-| 5 | Odpowiedzi eksperta w społecznościach pod nazwiskiem (z ujawnieniem powiązania) | grupy FB o kredytach, Wykop, forum Muratordom | ekspert | od grudnia, 2–3 tygodniowo |
+| 1 | Comiesięczny „Indeks opłacalności refinansowania Może Mniej” (aktualizacja tabeli po decyzji RPP, stały dzień, notka z 3 liczbami) | świeże, datowane dane własne – najchętniej cytowany typ źródła | Claude (dane, tekst), agent strony (publikacja), ekspert (akceptacja 1 zdania) | od ~6.12.2026, potem po każdym RPP |
+| 2 | Kalkulator opłacalności do osadzenia (embed z podpisem „źródło: mozemniej.pl”) | linki zdobywane bez proszenia | Claude (projekt), agent (wdrożenie, prompt v3) | grudzień |
+| 3 | PR danych – comiesięczna informacja prasowa z indeksem | wzmianki w mediach finansowych i regionalnych | Claude (tekst), zespół (wysyłka) | po indeksacji |
+| 4 | YouTube: 3 krótkie filmy z transkrypcją (bez udziału eksperta) | Google Tryb AI cytuje YouTube przy pytaniach o opłacalność | Claude (scenariusze), zespół (nagranie) | grudzień |
+| 5 | LinkedIn (strona firmy) + Facebook (profil) z regularnymi wpisami i jawnymi odpowiedziami z konta marki | spójna encja (`sameAs`); Facebook cytowany w 2 zapytaniach | zespół (konta), Claude (treści) | teraz |
 
-## Szablon 1 – prośba do NOTUS Finanse (od Mariusza Badowskiego)
+## Szablon 1 – prośba do NOTUS Finanse (WYCOFANY 23.11.2026 – nie wysyłać)
 
 Temat: Prośba o wzmiankę o serwisie Może Mniej na stronie agenta
 
@@ -37,7 +39,7 @@ Najważniejsze wnioski:
 - obniżka o 0,3 pp z prowizją zwraca się dopiero po ok. 7 latach.
 
 Metodologia i pełne dane (CSV, licencja CC BY 4.0): https://mozemniej.pl/kiedy-oplaca-sie-refinansowanie
-Komentarz eksperta: Mariusz Badowski, agent pośrednika kredytu hipotecznego (KNF RHA0010209), ponad 20 lat w kredytach hipotecznych – dostępny dla mediów.
+Komentarz eksperta (opcjonalnie, po akceptacji): Mariusz Badowski, agent pośrednika kredytu hipotecznego (KNF RHA0010209), ponad 20 lat w kredytach hipotecznych – dostępny dla mediów.
 
 Pozdrawiam,
 [imię i nazwisko, Może Mniej, telefon]
